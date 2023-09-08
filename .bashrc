@@ -6,3 +6,5 @@ fi
 
 source ./.aliases
 source ./.functions
+
+export PATH="$PATH:$HOME/bin"
