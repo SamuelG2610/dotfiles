@@ -9,3 +9,6 @@ sudo apt install gdb
 sudo apt install python3
 sudo apt install python3-pip
 sudo apt install python3-venv
+
+cp -r ~/dotfiles/* ~/
+cp -r ~/dotfiles/.config/* ~/.config/
