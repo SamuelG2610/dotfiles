@@ -1,0 +1,8 @@
+function md() {
+	mkdir -p "$@" && cd "$@"
+}
+
+function tn() {
+	touch "$@" && nvim "$@"
+}
+  
